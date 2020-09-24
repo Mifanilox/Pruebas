@@ -1,4 +1,4 @@
-Editado desde el repositorio local
+Editado desde el repositorio
 Texto de prueba de la ramaPrueba xd
 Contenido de la rama master
 Contenido de la rama nueva version actualizada
